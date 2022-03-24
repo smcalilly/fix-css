@@ -1,0 +1,11 @@
+/* Add custom style overrides here. */
+@import url('node_modules/leaflet/dist/leaflet.css')
+
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+}
+
+.map-viewer {
+  height: 550px;
+}
