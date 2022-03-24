@@ -1,4 +1,5 @@
 # fix_css
+Test app for debugging a django compressor / node_modules issue: https://github.com/datamade/how-to/issues/236
 
 ## Developing
 
